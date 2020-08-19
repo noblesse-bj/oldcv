@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            "B.J. Noh"
-tagline:          "Online CV"
-description:      "Here is Noh's Online curriculum vitae. If you have any questions, please feel free to contact me <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=powernoh92@gmail.com" target="_blank">@here</a>."
-url:              "https://noblesse-bj.github.io/"
+title:            'B.J. Noh'
+tagline:          'Online CV'
+description:      'Here is Noh's Online curriculum vitae'
+url:              https://noblesse-bj.github.io/
 baseurl:          /
 
 author:
