@@ -13,7 +13,7 @@ title: Education & Experience
 
 | Years | Experience | Details | Contributions |
 |:---|:---|:---|:---|
-| 2013.01 - 2013.08  | Student Internship | Department of Software Development & Quality Assurance <br> (C) AhnLab. <br> Korea | QA|
-| 2017.05 - 2017.08  | Contract Programmer | HR Team <br> CNCITY Energy <br> | Analysis of human capacity |
+| 2013.01 - 2013.08  | Student Internship | Department of Software Development & Quality Assurance <br> AhnLab. <br> Korea | Developed and tested AhnLab EPS solution which provides strong security capabilities from malware intrusion for special purpose system such as Point of Sales (POS), and kiosk.
+| 2017.05 - 2017.08  | Contract Programmer | HR Team <br> CNCITY Energy | Developed a matching & recommending program for the optimal team organization based on performance evaluation among workers.
 
 
