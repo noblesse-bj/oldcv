@@ -1,14 +1,21 @@
-title:            B.J. Noh
-tagline:          'Online CV'
-description:      'Here is Noh's Online curriculum vitae'
-url:              https://noblesse-bj.github.io/
-baseurl:          ''
+# Setup
 
+title:            B. J. Noh
+tagline:          ''
+description:      ''
+url:              https://benchoi93.github.io
+baseurl:          ''
+paginate:         5
+
+# About and contact
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         5
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
 
 # Custom vars
-version:          2.1.0
+version:          3.0.0
