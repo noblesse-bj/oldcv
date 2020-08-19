@@ -6,17 +6,14 @@ title: Education & Experience
 
 | Years | Education |Note.|
 |:---|:---|:---|
-| 2017.02 -         | **Ph.D. in Civil and Environmatal Engineering** <br> Korea Advanced Institute of Science and Technology (KAIST) | GPA 3.23 / 4.3 |
+| 2017.02 -         | **Ph.D. in Civil and Environmatal Engineering** <br> Transmatics Lab. <br> Korea Advanced Institute of Science and Technology (KAIST) | GPA 3.23 / 4.3 <br> **Military service will be completed in the early of 2022** |
 | 2015.03 - 2017.02 | **Master in Computer Information Science** <br> Database and Data Mining Lab. <br> Korea University <br><br> Superviser: Prof. Daihee Park <br> Thesis:***"Study on Keyword-Cube Model with Network Analysis and Association Rule Mining"*** [[PDF FILE]](https://github.com/noblesse-bj/noblesse-bj.github.io/raw/master/upload_info/Master%20Thesis.pdf)  | GPA 4.40 / 4.5 |
-
 | 2011.03 - 2015.02 | **Bachelor in Computer Information Science** <br> Korea University | Major GPA 4.42 / 4.5 |
 
 
-| Years | Experience |
-|:---|:---|
-| 2014.01 - 2014.07  | Exchange student in <br> Université de Technologie Compiegne|
-| 2017.05 - 2017.08  | Visiting scholar in <br> University of Queensland |
-| 2018.10 - 2018.11  | Visiting scholar in <br> University of Queensland |
-
+| Years | Experience | Details | Contributions |
+|:---|:---|:---|:---|
+| 2013.01 - 2013.08  | Student Internship | Department of Software Development & Quality Assurance <br> (C) AhnLab. <br> Korea | QA|
+| 2017.05 - 2017.08  | Contract Programmer | HR Team <br> CNCITY Energy <br> | Analysis of human capacity |
 
 
